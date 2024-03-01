@@ -1,0 +1,9 @@
+{
+    "base_url": "http://host.docker.internal:3001",
+    "workspace_name": "DevOps Chatbot",
+    "links": [
+        "https://learn.microsoft.com/en-us/azure/",
+        "https://kubernetes.io/docs/",
+        "https://docs.dagger.io/"
+    ]
+}
